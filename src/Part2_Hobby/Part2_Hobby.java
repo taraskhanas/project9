@@ -59,6 +59,6 @@ class ComputerGame {
 public class Part2_Hobby {
     public static void main(String[] args) {
         ComputerGame cg1 = new ComputerGame("CS 1.6", "Shooter", "Source", 2003 );
-        cg1.printInfo();w
+        cg1.printInfo();
     }
 }
